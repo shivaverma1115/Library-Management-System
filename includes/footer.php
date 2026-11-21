@@ -1,0 +1,1 @@
+</main><footer>Library Management System · PHP + MySQL · Academic Project</footer><script src="assets/js/app.js"></script></body></html>
